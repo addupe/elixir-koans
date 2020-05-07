@@ -1,7 +1,6 @@
 defmodule Equalities do
   use Koans
-
-  # test 
+  
   @intro """
   Welcome to the Elixir koans.
   Let these be your first humble steps towards learning a new language.
